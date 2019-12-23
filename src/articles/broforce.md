@@ -1,8 +1,5 @@
 ---
-path: "/broforce"
+path: "/blog/my-first-post"
 date: "2019-05-04"
-title: "BROFORCE BROFORCE!"
+title: "My first blog post"
 ---
-
-
-Sample post about Broforce. 🤜💥🤛 bunu anladık.
