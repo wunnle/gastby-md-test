@@ -1,7 +1,7 @@
 ---
 path: "/we-dig"
 date: "2019-05-04"
-title: "We dig"
+title: "*Mini Metro* + Disasterpeace"
 ---
 
 ## We dig this game!
